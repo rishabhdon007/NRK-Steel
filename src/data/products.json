@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "cold-rolled-coils",
+      "title": "Cold Rolled Coils",
+      "shortDescription": "High surface finish and precise thickness for automotive and appliance industries.",
+      "longDescription": "Our Cold Rolled Coils are manufactured through a meticulous process of passing hot rolled steel through a series of rollers at room temperature, ensuring superior surface finish and precise dimensional tolerances.",
+      "category": "Flat & Rolled Products",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuAGk-fefFu069OLhEqg2lKE11ROR1XFPpbCJqc0ndtBBNgRvai_5ji-ebQ-avGhxa3DmYgPPNVy_WbAVlnFluYyiXwsxCPBxkVQJLBftegyW2EJtLqUrkCfTho18Jtt-BnNYXagm27AFYkXguzZstzfU6hK8h1khtWLwnOX36hEur-pOH4aFD5E2Q2X9Pp6t8ob0VvOhKoc-C6r05VJ0mapA-Ka30CbuvEhQUuQnGlP1KpWmdETHD1WTQvnnlO4UBH6TepTjt0U32w",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuB5CGGfhZBp3K8GjNx7BS3rugxZTJqbTY6-HzXtVAvoq0yB9yMMn-N2QmtvPIW3irMIHifvN2NLh8LM-lzlXv6V1EDWmPc6bQUIIAOinHB-MdWMJs54vGW5RBhG5-x8CzD-Zjd8RYqFthg4Jevk3a3ZuaoTv-e89-Na7Y8B7poLNx7KqLziSKsGoIjTI40BxNLzhvaEbzIjoQxQdp7gGWN7_ArE7VBNhOye8aIoiScvOKHFTY4noEhnYzohuX-IPEmV_G4pDLAKGJQ",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuDFFZt218DjKdct7oHdLyZcvvDCkj1Bayh6oy02CPymr-PwRmAPDLprGL-kk5gp9APfgS9eTDex2WCJITD56uB1-MxZ2wH_00C2s6p766s3eUQyEi4QausKFBoJMHqFuOgpP3OPeqCQU-cVUM1lXaINI8Y0XrRTe4b4nmYZXoUrgxx5Z0gzWxv7sTQHSu1hjau6KxLyRM4466370Ut5jx6hQEbuUXlUIi8KBS4T8HRjMDeXgj0OzRgxGILrQ0EjMAd45VvLkJz7nuw"
+      ],
+      "processVideo": "https://lh3.googleusercontent.com/aida-public/AB6AXuBvIa1CuSSoaUFSn-ZaatjpFABExKJ_pc5DOY1_JWnfeDTF1MgaGMsr0lPVMSMD2Sk_yg7uItavUc9cuBwtR2QwpoM5Vxe3W0E7UsN1JFc7LnkdDlzGreLaV2kfNCszVuBL9hOIgsJhXb6yh3L8ueRSOBb_nYU6P96c-9OPtwKRb_wyy6kWk3OjTVW-4ItlcIWws_EGbXMdAVfTPKoKpiyScQKCO9ADxZ8CSYj73fmDG9uGwnY5wnESC_ICCDmDelW_FVyQQIsf2KU",
+      "specSummary": {
+        "Thickness": "0.30 - 4mm",
+        "Grade": "Semi Hard",
+        "Size Range": "1.5ft & Above",
+        "Material": "Mild Steel"
+      },
+      "specDescriptions": {
+        "Thickness": "The physical depth of the steel coil, measured in millimeters.",
+        "Grade": "The hardness level of the material, affecting its industrial application.",
+        "Size Range": "The available width and length dimensions for this specific product.",
+        "Material": "The primary metallurgical composition of the industrial steel."
+      },
+      "technicalSpecs": [
+        { "property": "Yield Stress (MPa)", "value": "240 - 320", "method": "ASTM A1008" },
+        { "property": "Tensile Strength (MPa)", "value": "350 - 450", "method": "ASTM A1008" },
+        { "property": "Elongation (%)", "value": "Min 20% (on 50mm GL)", "method": "ISO 6892-1" },
+        { "property": "Hardness (HRB)", "value": "50 - 65 Max", "method": "Rockwell Scale B" }
+      ],
+      "variants": [
+        { "title": "Cr Sheet Cutting", "type": "Cutting" },
+        { "title": "CR Semi Hard Material", "type": "Material" }
+      ]
+    },
+    {
+      "id": "tmt-rebars",
+      "title": "TMT Rebars",
+      "shortDescription": "High strength thermo-mechanically treated bars for seismic-resistant construction.",
+      "longDescription": "Our TMT Rebars (Thermo-Mechanically Treated) represent the pinnacle of longitudinal reinforcement. Through advanced quenching and tempering, we deliver bars with superior bonding strength and unparalleled ductibility.",
+      "category": "Flat & Rolled Products",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuA1ugxW1JiGOSSBqdKBSm-9VwrflJbcWtYI2aPLOgfLPZEo0NJn9F9fk8IXRkV7mgVjPs0imB0Lm8UTXtcEVKpqV4qAfJ3LSFcMBTWA3Nrr2RsdZ4kehq3ssHXHEZHlApcLl6wCjcJVantm_kJ2cni0NiuO0Bz4R_Uy5bIRXxxG18IDWTycKNucV5D_uQM_zrvg2saCztVmKlsZ0mjWxh7nZlStoOOayE87NbQ8pRJi_uZkeXfp2B6ffowVIO8CWeiMoPJxczeMFM0",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuAGqg9vKIwu_HJstRfYe6u4c3jZO_gXKaEO5woN1pgtMG9dg_pqkNH2Adnco9kG9ZVztmzRXt27jS6uAVqA8vv16dhZ0N0abeWeVbtPGlrpv0aZAwkCRfb0AxTYRj1qr6kT0cDQuTbW0V1AEx9jeybOAC2s2lz2F3_o6ub3bJh04VfNae62l1mMni9c9EqzGFTa7SZlv8KdexfMVqrkfnEzEXZv4mYep9UQ_i5XR9RLaB2fpoENYnoVzmsIWvlZnVPzVnaTfzShC2Y"
+      ],
+      "specSummary": {
+        "Grade": "Fe 500D / 550D",
+        "Diameter": "8mm - 32mm",
+        "Standard": "IS 1786",
+        "Application": "Civil Infrastructure"
+      },
+      "technicalSpecs": [
+        { "property": "Yield Strength", "value": "500 MPa", "method": "IS 1786" },
+        { "property": "Elongation", "value": "16.5%", "method": "IS 1786" }
+      ]
+    },
+    {
+      "id": "structural-beams",
+      "title": "Structural Beams",
+      "shortDescription": "I-Beams and H-Beams for heavy-duty structural framework and bridge construction.",
+      "longDescription": "Our structural beams are designed to withstand massive loads in civil and industrial projects. Available in various sections including IPE, HEA, and HEB standards.",
+      "category": "Structural Products",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuDm1yviJ07nAZ9_NhXGpSlA8vWQtM9upeVEtzor9Ixwg2iIzTL6yN8zS2Vx4LSMrzLJ9v1RDLO3kvNqlNZma6Womb_vrbsn0Qr3mHXalK2xLj3K4p6aWtjSpSZQi1s6kxISD8dfwq6qUG-IY3Xsnxtimk-OOLkr4wnWOqYL8fTOYlYAO7ZL1Sq1xkK3o-Zssbt-l2vdE8fG0R1u1eUc-9JUcTHiIcAaRNIHqmpwF3-Rf9ab4Bw2X5uleZNqOH8ANOvcMpc4YnJ5EoM",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuAGqg9vKIwu_HJstRfYe6u4c3jZO_gXKaEO5woN1pgtMG9dg_pqkNH2Adnco9kG9ZVztmzRXt27jS6uAVqA8vv16dhZ0N0abeWeVbtPGlrpv0aZAwkCRfb0AxTYRj1qr6kT0cDQuTbW0V1AEx9jeybOAC2s2lz2F3_o6ub3bJh04VfNae62l1mMni9c9EqzGFTa7SZlv8KdexfMVqrkfnEzEXZv4mYep9UQ_i5XR9RLaB2fpoENYnoVzmsIWvlZnVPzVnaTfzShC2Y"
+      ],
+      "specSummary": {
+        "Type": "I-Beam / H-Beam",
+        "Material": "S235JR / S355JR",
+        "Height": "100mm - 1000mm"
+      }
+    },
+    {
+      "id": "ms-plates",
+      "title": "MS Plates",
+      "shortDescription": "Heavy-duty mild steel plates for shipbuilding and industrial pressure vessels.",
+      "longDescription": "Hot-rolled mild steel plates with excellent weldability and machinability. Ideal for structural, fabrication, and manufacturing applications.",
+      "category": "Flat Products",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuBj53zVBk6_3-gktYiZi6P2orFNhpKPnAG_zZiEC99mGUzSNiWyjj30uZeu8GLkthLv-plH2DMJYn3Zzypnh-TzyWqCtlgd7zbgYmj62zc8k-Z2qlnInHQV3FqZMjU8cEC-JOsrjch2k8zBjJL2tTtorXGK8aAtwcZq7TugWLRkoNXNehcxzLKkk16cv_mDDTLwqfyhP933mD49VWOW24G2LFy3y13QiWhmNVeKYLa97Sk6swfKlLCmAzdxggFAFdilLKao_-pHYE8",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuCTQJ7jR0e-s4_s-mKk9W3OW3eS0eyMWg3D9cgZJPnjjujmea3nocfahfoWaMbq8ZI06B5-CM2pj3NU7iWHXkM7SLavkfPT2Y_ylc8I8qV_Up9neYVJxIHqajO2C38k1QaT6aRuql3E5jOvZS-iy9gfHqWy8zU0PWRsqhAJT_hrYYPtsz-8WGQFqUlQo9uGY394oT3vfEdGNvPgNqgM8LTxxIYsWNxQrH9v1D5R66oECJIsnvt8SCpB9EWlR3uyzzXhy7mjWtWIk_o"
+      ],
+      "specSummary": {
+        "Thickness": "5mm - 150mm",
+        "Width": "1250mm - 2500mm",
+        "Length": "6000mm - 12000mm"
+      }
+    }
+  ]
+}
